@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "noImplicitAny": false,
+      "strict":false,
+      "removeComments": true,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+    },
+  }
